@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Bai Tap 2</string>
+<string name="login">Dang Nhap</string>
+<string name="login_hint">Ten Dang Nhap</string>
+<string name="passwd">Mat Khau</string>
+<string name="RadioButton">Nut Radio</string>
+<string name="CheckBox"> Nut CheckBox</string>
+<string name="swt"> Cai Nay De lam gi ?</string>
+</resources>

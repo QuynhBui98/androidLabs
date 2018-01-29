@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">CST2335_Lab</string>
+<string name="login">Login</string>
+<string name="login_hint">Login name</string>
+<string name="passwd">Password</string>
+<string name="RadioButton">RadioButton</string>
+<string name="CheckBox">Check Box</string>
+<string name="swt">What does this do?</string>
+</resources>
