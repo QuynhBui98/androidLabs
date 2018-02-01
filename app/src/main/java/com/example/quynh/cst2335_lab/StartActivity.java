@@ -4,16 +4,15 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 
-public class LoginActivity extends Activity {
-    protected static final String ACTIVITY_NAME = "StartActivity";
 
+public class StartActivity extends Activity {
+    protected static final String ACTIVITY_NAME = "StartActivity";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
-
-    Log.i(ACTIVITY_NAME, "In onCreate()");
-}
+        setContentView(R.layout.activity_start);
+        Log.i(ACTIVITY_NAME, "In onCreate()");
+    }
     @Override
     protected void onResume(){
         super.onResume();
@@ -39,6 +38,4 @@ public class LoginActivity extends Activity {
         super.onDestroy();
         Log.i(ACTIVITY_NAME, "In onDestroy()");
     }
-
-
 }
