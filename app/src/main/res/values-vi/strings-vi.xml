@@ -14,4 +14,7 @@
     <string name="dialog_message">Ban Co Muon Tiep Tuc Khong?</string>
     <string name="ok">Vang, Toi dong y</string>
     <string name="cancel">Khong, Cam on</string>
+    <string name="startChat">Bat dau tro chuyen?</string>
+    <string name="sendButton">Gui</string>
+    <string name="enter">Nhap tin nhan</string>
 </resources>
