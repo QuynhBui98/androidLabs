@@ -1,9 +1,18 @@
 <resources>
-    <string name="app_name">CST2335_Lab</string>
+    <string name="app_name">CST2335_Lab3</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\'m a button</string>
     <string name="login">Login</string>
     <string name="login_hint">Login name</string>
     <string name="passwd">Password</string>
     <string name="RadioButton">RadioButton</string>
     <string name="CheckBox">Check Box</string>
     <string name="swt">What does this do?</string>
+    <string name="LoginButton">Login Button</string>
+    <string name="dialog_title"> Warning !!</string>
+    <string name="dialog_message">Do you want to finish this Activity?</string>
+    <string name="ok">Yes</string>
+    <string name="cancel">No</string>
+    <string name="startChat">Start Chat</string>
+    <string name="sendButton">SEND</string>
 </resources>
