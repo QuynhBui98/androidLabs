@@ -15,4 +15,10 @@
     <string name="cancel">No</string>
     <string name="startChat">Start Chat</string>
     <string name="sendButton">SEND</string>
+    <string name="enter">Enter Text</string>
+    <string name="goToWeather">Open Weather Forecast</string>
+    <string name="deleteMessage">Delete this Message</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
+    <string name="newMessage">New Message</string>
+    <string name="toolButton">TestToolBar</string>
 </resources>
